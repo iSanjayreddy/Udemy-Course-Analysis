@@ -1,1 +1,3 @@
 # Udemy-Course-Analysis
+This project revolves around exploring and visualizing data from Udemy courses, analyzing their prices, ratings, and other attributes. By leveraging the power of Python and data visualization libraries, this project sheds light on valuable insights within the Udemy course dataset.
+This project focuses on exploring and analyzing the Udemy course dataset, aiming to uncover trends, patterns, and insights related to course prices, ratings, and more. By utilizing Python for data analysis and visualization, the project provides a comprehensive understanding of the dataset's characteristics.
